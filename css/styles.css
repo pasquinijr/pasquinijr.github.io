@@ -12706,6 +12706,13 @@ section {
   pointer-events: auto;
 }
 
+.device .screen .hero-screen-img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
 .device .button {
   position: absolute;
   cursor: pointer;
